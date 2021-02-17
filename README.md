@@ -2,7 +2,7 @@
 #### I am a Software Engineer based in Zurich, Switzerland.
 
 - 🔭 I’m currently working on **Nispera AG** on high-scale Renewable energy.
-- 🌱 I’m currently learning about Frontend.
+- 🌱 I’m currently learning about Frontend technologies.
 - 💬 Ask me about anything, Happy to help!
 - 📫 How to reach me: via Email. (ospino.p@gmail.com)
 
